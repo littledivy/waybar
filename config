@@ -37,7 +37,7 @@
   },
 
   "clock": {
-    "format": "{:%a %b %e  %R}",
+    "format": "{:%a %b %e  %I:%M %p}",
     "interval": 30
   },
 
